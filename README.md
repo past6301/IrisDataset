@@ -1,4 +1,4 @@
 # Iris Deep Learning
  Project
  
- 
+ This was the first individual project I completed as an assignment for my Deep Learning class. Using 25 different network structure variations we were tasked with trying to determine which one was the most effective at predicting what species of flower based on the IRIS dataset. Similar to the other project in my signature work portfolio we had to create 5 different network structures and for each network structure we tested 5 different optimizers. However, in this project we used only 150 epochs for our testing. For the IRIS dataset RMSProp ended up being the most effective optimizer for reducing validation loss. To easily run this code, click on open in colab and click the run icon. To test out different layer structure comment out a layer. To change the optimizer comment out the optimizer that is currently being used and uncomment out another optimizer.
